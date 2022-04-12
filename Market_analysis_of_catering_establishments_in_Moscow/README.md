@@ -1,3 +1,5 @@
+GitHub не отображает некорые графики Plotly, поэтому в файле ipynb они не видны. Полная версия проекта по сслыке:https://nbviewer.org/github/VasiliyMitrov/yandex_practicum_projects/blob/main/Market_analysis_of_catering_establishments_in_Moscow/Рынок%20заведений%20общественного%20питания%20Москвы.ipynb
+
 # Анализ рынка заведений общественного питания Москвы
 
 ## Задача
