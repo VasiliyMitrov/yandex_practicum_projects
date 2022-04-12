@@ -1,3 +1,5 @@
+GitHub не отображает некорые графики Plotly, поэтому в файле ipynb они не видны. Полная версия проекта по сслыке: https://nbviewer.org/github/VasiliyMitrov/yandex_practicum_projects/blob/main/Аnalysis_of_the_behavior_of_users_of_the_mobile_app/Анализ%20поведения%20пользователей%20мобильного%20приложения.ipynb
+
 # Анализ поведения пользователей мобильного приложения
 
 ## Задача
